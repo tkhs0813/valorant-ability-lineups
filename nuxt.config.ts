@@ -4,6 +4,7 @@ import { defineNuxtConfig } from "nuxt";
 export default defineNuxtConfig({
   ssr: false,
   modules: ["@nuxt/content"],
+  buildModules: ["@pinia/nuxt"],
   // buildModules: ["@nuxtjs/tailwindcss"],
   css: ["@/assets/css/tailwind.css"],
   build: {

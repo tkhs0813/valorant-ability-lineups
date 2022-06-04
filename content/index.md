@@ -1,9 +1,6 @@
-# Hello Content v2!
+# Hello Nuxt Content
 
-This page corresponds to the `/` route of your website. You can delete it or create another file in the `content/` directory.
+Welcome to Nuxt Content Hello World example.
 
-Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[...slug].vue` component.
+Checkout the [about page](/about).
 
----
-
-Look at the [Content documentation](https://content-v2.nuxtjs.org/) to learn more.
