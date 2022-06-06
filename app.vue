@@ -13,7 +13,7 @@
 
 <script setup>
 useHead({
-  title: "⚡Valorant Ability⚡",
+  title: "⚡Valorant Ability Lineups⚡",
   htmlAttrs: {
     class: "h-full bg-blue-400 bg-opacity-30",
   },

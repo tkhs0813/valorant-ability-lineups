@@ -4,7 +4,7 @@
       <div class="flex items-center justify-between h-16">
         <div class="flex items-center">
           <div class="flex-shrink-0 text-white text-lg font-bold">
-            ⚡Valorant Ability⚡
+            ⚡Valorant Ability Lineups⚡
           </div>
         </div>
       </div>
